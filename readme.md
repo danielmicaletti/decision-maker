@@ -1,8 +1,8 @@
-#React DecisionMaker App
+# React DecisionMaker App
 
-##Simple React web app to help make your tough decisions
+## Simple React web app to help make your tough decisions
 
-###Technology used:
+### Technology used:
 Frontend:
 - React
 
